@@ -6,14 +6,6 @@
 
 **#TEAM ID : PNT2022TMID15858**
 
-Team Leader : Mugunthan M
-
-Team member : Mohanraj T R
-
-Team member : Kesava Sai Raam C N
-
-Team member : Muhin V
-
 Category: Machine Learning
 
 Skills Required: Python,Python Web Frame Works,Python For Data Visualization,Data Preprocessing Techniques,Machine Learning,IBM Cloud,IBM Watson Studio,Python-Flask
